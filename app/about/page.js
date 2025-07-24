@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link';
 
 const about = () => {
     return (<>
@@ -53,7 +54,7 @@ const about = () => {
                 <p style={{ fontSize: '1rem', marginBottom: '18px', color: '#000' }}>
                     Whether you’re sharing links on social media, sending them in emails, or just want a cleaner way to present your URLs, Clean Link makes it effortless.
                 </p>
-                <a
+                <Link
                     href="/"
                     style={{
                         display: 'inline-block',
@@ -68,7 +69,7 @@ const about = () => {
                     }}
                 >
                     Try Clean Link Now
-                </a>
+                </Link>
             </div>
         </div>
     </>
