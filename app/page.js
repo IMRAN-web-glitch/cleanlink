@@ -38,7 +38,7 @@ export default function Home() {
               </span>
             </div>
             <p className="p-2 text-base md:text-lg mb-4">
-              Say goodbye to long, ugly links. With our fast and simple tool, you can create clean, memorable short links in seconds. Whether you're sharing on social media, in emails, or anywhere else — keep it neat, trackable, and effective. No clutter, just powerful, professional links.
+              Say goodbye to long, ugly links. With our fast and simple tool, you can create clean, memorable short links in seconds. Whether you are sharing on social media, in emails, or anywhere else — keep it neat, trackable, and effective. No clutter, just powerful, professional links.
             </p>
             <ul className="flex justify-center items-center p-3.5 gap-4 text-lg font-semibold">
               <Link href="/shorten">
