@@ -46,7 +46,7 @@ export default function Home() {
                   Try now
                 </li>
               </Link>
-              <Link href="https://github.com/" target="_blank">
+              <Link href="https://github.com/IMRAN-web-glitch" target="_blank">
                 <li className="bg-white border border-[#FBC02D] text-[#FBC02D] hover:bg-[#FFF9C4] transition-colors rounded-lg px-5 py-2 shadow-md cursor-pointer">
                   Github
                 </li>
